@@ -5,6 +5,16 @@ This code is the implementation of this paper (An Accurate GRU-Based Power Time-
 TensorFlow-gpu = 1.14
 Keras = 2.1.5
 
+#Usage
+You can run the wind-dataset-hyper-parameters-select-GRU-SSU-AMG.py file directly to implement the wind power forecasting task.  
+
+Firstly, you need to place these two files (optimizers.py & recurrent.py) in the location specified by Keras (./anaconda3/envs/tf_1.14/Lib/site-packages/keras/).  
+
+Then, you can execute the following command:  
+
+```
+python wind-dataset-hyper-parameters-select-GRU-SSU-AMG.py
+```
 # Figure
 ![](https://github.com/zwd2016/GRU-SSU-AMG/blob/main/framework.png)
 
