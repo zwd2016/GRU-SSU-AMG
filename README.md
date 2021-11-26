@@ -9,7 +9,8 @@ Keras = 2.1.5
 %![](https://github.com/zwd2016/multivariate-time-series-prediction/raw/master/Figure-9-heatmap.jpg)
 
 # References
-If you are interested, please cite this paper.\\
+If you are interested, please cite this paper.  
+
 @article{zhengaccurate,
   title={An Accurate GRU-Based Power Time-Series Prediction Approach With Selective State Updating and Stochastic Optimization},
   author={Zheng, Wendong and Chen, Gang},
