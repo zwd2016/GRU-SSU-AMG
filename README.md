@@ -5,8 +5,8 @@ This code is the implementation of this paper (An Accurate GRU-Based Power Time-
 TensorFlow-gpu = 1.14
 Keras = 2.1.5
 
-%# Figure
-%![](https://github.com/zwd2016/multivariate-time-series-prediction/raw/master/Figure-9-heatmap.jpg)
+# Figure
+![](https://github.com/zwd2016/GRU-SSU-AMG/blob/main/framework.pdf)
 
 # References
 If you are interested, please cite this paper.  
