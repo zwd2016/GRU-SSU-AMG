@@ -6,7 +6,7 @@ TensorFlow-gpu = 1.14
 Keras = 2.1.5
 
 # Figure
-![](https://github.com/zwd2016/GRU-SSU-AMG/blob/main/framework.pdf)
+![](https://github.com/zwd2016/GRU-SSU-AMG/blob/main/framework.png)
 
 # References
 If you are interested, please cite this paper.  
